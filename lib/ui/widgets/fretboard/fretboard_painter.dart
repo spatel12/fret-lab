@@ -17,8 +17,8 @@ class FretboardLayout {
     required this.width,
     required this.height,
     this.fretCount = 24,
-    this.topPadding = 30,
-    this.bottomPadding = 30,
+    this.topPadding = 20,
+    this.bottomPadding = 40,
     this.leftPadding = 40,
     this.nutWidth = 6,
   });
