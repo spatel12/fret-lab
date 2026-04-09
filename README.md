@@ -2,6 +2,8 @@
 
 A Flutter desktop app for visualizing and practicing guitar scales across any tuning.
 
+<img width="1512" height="946" alt="image" src="https://github.com/user-attachments/assets/4f5346b5-393c-4350-aeb0-1b984ad244a9" />
+
 ## Features
 
 - **16 scales** — Major, Minor, Pentatonic, Blues, all 7 modes, and exotic scales (Whole Tone, Diminished, Hungarian Minor)
